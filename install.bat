@@ -37,7 +37,7 @@ curl -L -o "%INSTALL_PATH%\src\bloom-light.png" "https://github.com/DrFunTimes83
 curl -L -o "%INSTALL_PATH%\src\bloom-dark.png"  "https://github.com/DrFunTimes831/autobloom-win10/raw/main/src/bloom-dark.png"
 curl -L -o "%INSTALL_PATH%\uninstall.bat"       "https://github.com/DrFunTimes831/autobloom-win10/raw/main/uninstall.bat"
 curl -L -o "%INSTALL_PATH%\run.ps1"            "https://github.com/DrFunTimes831/autobloom-win10/raw/main/run.ps1"
-curl -L -o "%INSTALL_PATH%\wallpaper.exe" "https://github.com/DrFunTimes831/autobloom-win10/raw/main/wallpaper.exe"
+curl -L -o "%INSTALL_PATH%\wallpaper.exe" "https://drive.usercontent.google.com/download?id=1zF0jjFXfDNJECc9xbg5fksYflb7vnl6U&export=download&authuser=0&confirm=t&uuid=26c92f6a-c3e0-4380-8fbf-6dc4a3563f6c&at=AN8xHorMSrZfYvo5nn0wRRDvPbwP%3A1756994742255"
 curl -L -o "%INSTALL_PATH%\run-bloom.vbs"      "https://github.com/DrFunTimes831/autobloom-win10/raw/main/run_bloom.vbs"
 
 :: --- Prompt user for mode ---
